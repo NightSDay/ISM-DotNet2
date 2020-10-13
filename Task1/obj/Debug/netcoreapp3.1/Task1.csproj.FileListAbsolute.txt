@@ -1,0 +1,13 @@
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\grim dawn\ismbootcamp\ISMDotNet2\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
